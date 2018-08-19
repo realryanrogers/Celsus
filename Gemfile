@@ -8,8 +8,10 @@ gem 'omniauth-google-oauth2'
 gem 'devise'
 
 #bootstrap
-gem 'bootstrap-sass'
+gem 'bootstrap'
+gem 'sprockets-rails'
 gem 'jquery-rails'
+gem 'font-awesome-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
